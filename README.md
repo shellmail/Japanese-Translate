@@ -1,2 +1,2 @@
-# Japanese-Translate
-翻訳ファイル作業場
+# TheBattleofPolytopia-JPTranslate
+The Battle of Polytopia の私家版英日翻訳です。
